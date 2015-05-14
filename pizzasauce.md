@@ -4,8 +4,8 @@
 
 * 500g tomato purée
 * 4 Tbsp concentrated tomato
+* 2 Tbsp olive oil
 * 2 cloves garlic
-* 2 Tbsp olice oil
 * 2 tsp basil
 * 2 tsp oregano
 * 1 tsp balsamico
