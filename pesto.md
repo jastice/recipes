@@ -5,10 +5,10 @@ Zutaten für 4 Personen
 
 * 50 g Pinienkerne, Walnüsse oder ähnliches
 * 50 g frisch geriebener Parmesan oder Pecorino (kann man auch mischen)
-* 2 Handvoll frische Blätter Basilikum
+* 15 g frische Blätter Basilikum (ca 2 Hand voll)
 * 2 Knoblauchzehen
 * 100 ml kaltgepresstes Olivenöl
-* 1/2 TL Salz (dran denken: auch der Käse ist schon salzig)
+* 1/2 TL Salz
 * 1 TL schwarzer Pfeffer, frisch gemahlen
 
 ## Zubereitung
