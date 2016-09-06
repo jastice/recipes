@@ -45,7 +45,7 @@
 1. 75g Zucker, 1 Ei, 1 TL Backpulver, 200g Mehl vermengen
 2. 75g Butter zu Flocken schneiden, in Teigmasse kneten
 3. Springform fetten
-4. Teig auf Bodenn un Ränder verteilen
+4. Teig auf Boden und Ränder verteilen
 
 ### Baiser
 
