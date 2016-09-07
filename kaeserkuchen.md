@@ -4,7 +4,7 @@
 
 ### Hauptmasse
 
-* 4 Eier, Eigelb
+* 4 Eier, Eigelb (optional)
 * 1 kg Quark
 * 60 g Stärke
 * 1 Limette
@@ -13,7 +13,7 @@
 * 500 ml Milch
 * 150 g Zucker
 
-### Baiser
+### Baiser (optional)
 
 * 4 Eier, Eiweiß
 * 100 g Zucker
@@ -23,7 +23,7 @@
 
 * 75 g Zucker
 * 75g Butter
-* 1 Ei, ganz
+* 1 Ei, ganz (oder Ei-Ersatz)
 * 1 TL Backpulver
 * Prise Salz
 * 200g Mehl
