@@ -58,3 +58,55 @@
 1. Teigmasse in Springform füllen
 2. ca 45 min bei 200C (Umluft) backen, derweil Baiser vorbereiten
 3. Baiser auftragen, weitere 15 min bei 150C backen
+
+```mermaid
+gantt
+title Käserkuchen
+dateFormat HH:mm
+axisFormat %H:%M
+
+section Oven
+	Vorheizen auf 200C (Umluft): preheat, 0, 15m 
+
+section Mürbeteigboden
+	75g Zucker: crustsugar, 0, 0m
+	1 Ei: crustegg, 0, 0m
+	1 TL Backpulver: crustbakingpowder, 0, 0m
+	200g Mehl: crustflour, 0, 0m
+	Zutaten mischen: crustmix, after crustsugar crustegg crustbakingpowder crustflour, 2m
+	75g Butter: butter, 0, 0m
+	Butter zu flocken schneiden: crustbutter, after butter, 3m
+	Butter in Mischung einkneten: crustknead, after crustbutter crustmix, 5m
+	Springform einfetten: crustfat, 0, 2m
+	Bodenmasse in Springform verteilen: crustapply, after crustknead crustfat, 5m
+	Vorbacken 10m: crustbake, after crustapply preheat, 10m
+
+section Hauptmasse
+	1kg Quark: quark, 0, 0m
+	150g Zucker: zucker, 0, 0m
+	60g Stärke: staerke, 0, 0m
+	150ml Öl: oel, 0, 0m
+	4 Eier: eier, 0, 0m
+	Eier trennen: eiertrennen, after eier, 5m
+	4 Eigelb: eigelb, after eiertrennen, 0m
+	1 Limette: limette, 0, 0m
+	Limette auspressen: limettepressen, after limette, 3m
+	2 Vanilleschoten: vanille, 0, 0m
+	Vanille auskratzen: vanillemark, 0, 3m
+	Zutaten vermischen: hauptmasse1, after quark zucker staerke oel eigelb limettepressen vanillemark, 5m
+	500ml Milch: milch, 0, 0m
+	Milch in Masse einrühren: hauptmasse2, after milch masse, 5m
+	
+	4 Eiweiss aufheben: eiweiss, after eiertrennen, 0m
+
+section Baiser (optional)
+	100g Zucker: baiserzucker, 0, 0m
+	1 EL Kakao: kakao, 0, 0m
+	Eiweiss aufschlagen, Zucker einrieseln, Kakao einrühren: eischnee, after eiweiss baiserzucker kakao, 5m
+
+section Kuchen
+	Teigmasse in vorbereitete Springform mit Boden füllen: kuchen1, after crustbake hauptmasse2, 2m
+	Kuchen ca 45 min bei 200C (Umluft) backen: kuchen2, after hauptmasse2 kuchen1, 45m
+	Baiser auftragen: kuchen3, after kuchen2, 5m
+	Kuchen weitere 15m bei 150C backen: kuchen4, after kuchen3, 15m
+```
